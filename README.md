@@ -1,6 +1,6 @@
-# DIO---Bootcamp--Livro-de-Receitas
+### DIO---Bootcamp--Livro-de-Receitas
 
-STROGONOFF DE FRANGO 🐔
+> *STROGONOFF DE FRANGO* 🐔
  
 INGREDIENTES
 
