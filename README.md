@@ -1,13 +1,16 @@
+
 ### DIO/Bootcamp
 
 Livro de Receita
 
 
 > **STROGONOFF DE FRANGO** 🐔
+> ---------------
  
 ![frango](https://user-images.githubusercontent.com/89816943/210690386-2363dfa8-3d99-4b39-af2f-a2fa56cdba64.jpg)
  
  > **INGREDIENTES**
+ >----------------
 
 • 3 peitos de frango cortados em cubos
 
@@ -31,7 +34,8 @@ Livro de Receita
 
 • batata palha a gosto
 
-> **MODO DE PREPARO**
+> **MODO DE PREPARO** 
+>----------------
 
 1- Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
